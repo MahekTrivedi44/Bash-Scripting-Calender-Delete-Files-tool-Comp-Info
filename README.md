@@ -1,6 +1,8 @@
 # Bash-Scripting-Calender-Delete-Files-tool-Computer-Info
 Bash Scripting project
 
+The code is included in the report.
+
 Objectives:
 1. To create a Calendar that must be shown using infobox of dialog utility or otherwise and it should have the flexibility of choosing any particular date from the calendar to
 add any relevant information if needed.
